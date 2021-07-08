@@ -1,6 +1,8 @@
-package one.gate.africa.miniProjet.categorie;
+package one.gate.africa.miniProjet.services;
 
-import one.gate.africa.miniProjet.produits.ProduitsRepository;
+import one.gate.africa.miniProjet.modules.Categorie;
+import one.gate.africa.miniProjet.repository.ProduitsRepository;
+import one.gate.africa.miniProjet.repository.CategorieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

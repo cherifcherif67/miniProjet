@@ -1,9 +1,9 @@
-package one.gate.africa.miniProjet.categorie;
+package one.gate.africa.miniProjet.modules;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
-import one.gate.africa.miniProjet.produits.Produits;
+import one.gate.africa.miniProjet.modules.Produits;
 import org.hibernate.annotations.CreationTimestamp;
 
 import javax.persistence.*;

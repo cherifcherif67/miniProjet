@@ -1,9 +1,9 @@
 package one.gate.africa.miniProjet;
 
-import one.gate.africa.miniProjet.categorie.Categorie;
-import one.gate.africa.miniProjet.categorie.CategorieService;
-import one.gate.africa.miniProjet.produits.Produits;
-import one.gate.africa.miniProjet.produits.ProduitsService;
+import one.gate.africa.miniProjet.modules.Categorie;
+import one.gate.africa.miniProjet.services.CategorieService;
+import one.gate.africa.miniProjet.modules.Produits;
+import one.gate.africa.miniProjet.services.ProduitsService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
