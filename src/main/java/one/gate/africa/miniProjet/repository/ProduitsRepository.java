@@ -1,5 +1,6 @@
-package one.gate.africa.miniProjet.produits;
+package one.gate.africa.miniProjet.repository;
 
+import one.gate.africa.miniProjet.modules.Produits;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

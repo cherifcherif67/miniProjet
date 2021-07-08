@@ -1,5 +1,6 @@
-package one.gate.africa.miniProjet.categorie;
+package one.gate.africa.miniProjet.repository;
 
+import one.gate.africa.miniProjet.modules.Categorie;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

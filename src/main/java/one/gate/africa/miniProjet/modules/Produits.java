@@ -1,8 +1,7 @@
-package one.gate.africa.miniProjet.produits;
+package one.gate.africa.miniProjet.modules;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;
-import one.gate.africa.miniProjet.categorie.Categorie;
 import org.hibernate.annotations.CreationTimestamp;
 
 import javax.persistence.*;

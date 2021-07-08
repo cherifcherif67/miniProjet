@@ -1,5 +1,7 @@
-package one.gate.africa.miniProjet.categorie;
+package one.gate.africa.miniProjet.controllers;
 
+import one.gate.africa.miniProjet.modules.Categorie;
+import one.gate.africa.miniProjet.services.CategorieService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
