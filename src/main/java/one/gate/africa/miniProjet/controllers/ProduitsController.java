@@ -33,7 +33,7 @@ public class ProduitsController {
     }
 
     @PostMapping("/categorie/{idCategorie}/produits")
-    public void addProduits(@RequestBody Produits produit,@PathVariable Long idCategorie){
+    public void addProduits(@RequestBody Produits produit,@PathVariable long idCategorie){
         produitsService.addProduit(produit,idCategorie);
     }
 
